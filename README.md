@@ -1,6 +1,6 @@
 # Svelte + Vite + Sass + Bootstrap
 
-내 환경 boilerplate 저장소임.
+내 환경 boilerplate 저장소
 
 prettier 추가함.
 
